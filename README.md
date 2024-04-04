@@ -17,4 +17,4 @@ A movie search app that consumes an external API to display data.
 
 1. Using React library
 2. Responsive
-3. Different Functionality 
+3. Different Functionality.
